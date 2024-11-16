@@ -332,10 +332,11 @@ hr{
         margin-top: 40px;
     }
     footer {
-        flex-direction: column;
+        display: flex;
+        flex-direction: row;
         gap: 30px;
-        padding-left: 0;
-        height: 500px;
+        padding-left: 40px;
+        height: 250px;
     }
 
     .footer1-content {
