@@ -3,25 +3,32 @@ body{
 }
 .container{
     display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h2{
-    margin-top: 250px;
+    margin-top: 60px;
     font-size: 27px;
 }
+.img{
+    height: 580px;
+    width: 125%;
+}
 fieldset{
-    margin-left: 0px;
+    margin-left: 140px;
     border-width: thin;
     border-radius: 2px;
+    border: none;
     width: 600px;
-    height: 830px;
+    height: 560px;
     text-align: center;
 }
 input{
     width: 400px;
     width: 488px;
     height: 60px;
-    margin-top: 40px;
+    margin-top: 20px;
     padding: 5px;
     border-color: #FBDDBB;
     border-radius: 5px;

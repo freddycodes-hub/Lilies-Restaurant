@@ -20,8 +20,7 @@ nav{
     margin-left: -40px;
 }
 .buttons{
-    /* width: 50px; */
-    padding-left: 700px;
+    padding-left: 600px;
     margin-top: 40px;
 }
 .btn1{
@@ -96,7 +95,6 @@ font-size: 27px;
 font-weight: 700;
 color: #FBDDBB;
 
-/* line-height: 33px; */
 text-align: center;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
